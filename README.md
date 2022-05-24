@@ -8,7 +8,12 @@
 * [Room for Improvement](#room-for-improvement)
 
 ## Preview
-<img src="src/Images/preview1.png" width='300'>
+<div class="row">
+<img src="src/Images/preview1.png" width='200'>
+<img src="src/Images/preview2.png" width='200'>
+<img src="src/Images/preview3.png" width='200'>
+<img src="src/Images/preview4.png" width='200'>
+</div>
 
 ## General Information
 - A Transaction App has 2 screens
