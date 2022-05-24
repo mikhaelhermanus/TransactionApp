@@ -7,6 +7,9 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 
+## Preview
+<img src="src/Images/preview1.png" width='300'>
+
 ## General Information
 - A Transaction App has 2 screens
 - Index screen for view all transaction data with status for every transaction
